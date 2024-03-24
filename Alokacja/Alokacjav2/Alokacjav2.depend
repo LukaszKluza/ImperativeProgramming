@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685136794 source:c:\users\lenovo\desktop\alokacja\alokacjav2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+

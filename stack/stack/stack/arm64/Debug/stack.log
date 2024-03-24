@@ -1,0 +1,5 @@
+﻿  stack.cpp
+\\Mac\Home\Documents\Studia\JiPP\stack\stack\stack.cpp(104,18): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+  stack.hpp
+  Generating Code...

@@ -1,0 +1,116 @@
+﻿  listv2.cpp
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(27,3): error C2371: "List": zmiana definicji; różne typy podstawowe
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(37,17): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(46,11): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(47,11): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(48,11): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(49,11): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(50,11): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(51,11): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(56,31): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(58,15): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(75,18): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(76,22): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(77,15): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(77,30): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(86,27): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(88,8): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(89,15): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(92,15): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(92,30): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(101,8): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(102,15): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(103,15): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(106,15): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(106,30): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(112,8): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(113,35): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(114,15): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(114,30): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(122,31): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(124,11): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(124,26): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(131,11): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(136,43): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(157,8): error C2027: wykorzystanie niezdefiniowanego przez użytkownika typu "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(10): message : zobacz deklarację „List”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(177,12): warning C4477: „printf”: ciąg formatu „%d” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „const int *”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(177,12): warning C4313: „printf”: „%d” w ciągu formatu powoduje konflikt z argumentem 1 typu „const int *”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(231,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(234,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(238,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(248,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(260,10): error C2079: "list" używa niezdefiniowanego struct "List"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(266,59): error C2664: „void init_list(List *,ConstDataFp,DataFp,CompareDataFp,DataFp)”: nie można dokonać konwersji argumentu 1 z „int *” do „List *”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(266,19): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(45,6): message : zobacz deklarację „init_list”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(267,27): error C2664: „void list_test(List *,int)”: nie można dokonać konwersji argumentu 1 z „int *” do „List *”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(267,19): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(227,6): message : zobacz deklarację „list_test”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(268,24): error C2664: „void dump_list(const List *)”: nie można dokonać konwersji argumentu 1 z „int *” do „const List *”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(268,19): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(55,6): message : zobacz deklarację „dump_list”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(269,24): error C2664: „void free_list(List *)”: nie można dokonać konwersji argumentu 1 z „int *” do „List *”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(269,19): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(73,6): message : zobacz deklarację „free_list”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(272,58): error C2664: „void init_list(List *,ConstDataFp,DataFp,CompareDataFp,DataFp)”: nie można dokonać konwersji argumentu 1 z „int *” do „List *”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(272,19): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(45,6): message : zobacz deklarację „init_list”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(273,42): error C2664: „void stream_to_list(List *,FILE *,CompareDataFp)”: nie można dokonać konwersji argumentu 1 z „int *” do „List *”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(273,24): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(221,6): message : zobacz deklarację „stream_to_list”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(274,24): error C2664: „void dump_list(const List *)”: nie można dokonać konwersji argumentu 1 z „int *” do „const List *”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(274,19): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(55,6): message : zobacz deklarację „dump_list”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(275,24): error C2664: „void free_list(List *)”: nie można dokonać konwersji argumentu 1 z „int *” do „List *”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(275,19): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(73,6): message : zobacz deklarację „free_list”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(279,75): error C2664: „void init_list(List *,ConstDataFp,DataFp,CompareDataFp,DataFp)”: nie można dokonać konwersji argumentu 1 z „int *” do „List *”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(279,19): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(45,6): message : zobacz deklarację „init_list”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(280,55): error C2664: „void stream_to_list(List *,FILE *,CompareDataFp)”: nie można dokonać konwersji argumentu 1 z „int *” do „List *”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(280,24): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(221,6): message : zobacz deklarację „stream_to_list”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(283,34): error C2664: „void dump_list_if(List *,void *)”: nie można dokonać konwersji argumentu 1 z „int *” do „List *”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(283,22): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(65,6): message : zobacz deklarację „dump_list_if”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(284,24): error C2664: „void free_list(List *)”: nie można dokonać konwersji argumentu 1 z „int *” do „List *”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(284,19): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(73,6): message : zobacz deklarację „free_list”
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(262,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(265,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(278,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(286,5): error C2361: Inicjalizacja "data" jest pomijana przy etykiecie "default"
+C:\Users\Lenovo\Desktop\List\listv2\listv2\listv2.cpp(282): message : zobacz deklarację „data”
